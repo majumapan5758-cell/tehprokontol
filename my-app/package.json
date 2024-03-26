@@ -1,27 +1,49 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "tehprokontol",
+  "version": "1.1.4",
+  "description": "Tracks trending open-source projects for the upcoming phase, utilizing averages for insightful trend analysis. ",
+  "main": "average.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.1.4"
+    "are-arrays": "^1.1.4",
+    "are-objects": "^1.1.4",
+
+
+    "bohan4.oolong": "^1.1.4",
+    "manlandram2test": "^1.1.4",
+    "idemizutani3-random": "^1.1.4",
+    "hakade3.soft": "^1.1.4",
+    "majumapan5758-cell": "^1.1.4",
+    "kazturi302": "^1.1.4",
+
+
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
   },
   "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "autoprefixer": "^10.0.1",
-    "postcss": "^8",
-    "tailwindcss": "^3.3.0",
-    "eslint": "^8",
-    "eslint-config-next": "14.1.4"
-  }
+    "eslint": "^8.2.0",
+    "jest": "^27.4.7",
+    "babel-eslint": "^10.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/majumapan5758-cell/tehprokontol.git"
+  },
+  "homepage": "https://github.com/majumapan5758-cell/tehprokontol/blob/main/README.md",
+  "issues": "https://github.com/majumapan5758-cell/tehprokontol/issues",
+  "keywords": [
+    "average",
+    "calculate",
+    "median",
+    "means",
+    "math"
+  ],
+  "author": "majumapan5758-cell",
+  "license": "MIT"
 }
